@@ -1,3 +1,7 @@
+This is a modified version of the RTClib that can be found here https://github.com/adafruit/RTClib.
+I only added a couple of geters and setters, that where needed to make the code for my binary clock project significantly less complicated.
+
+Here is the text from the original readme:
 This is a fork of JeeLab's fantastic real time clock library for Arduino.
 
 For details on using this library with an RTC module like the DS1307, PCF8523, or DS3231, see the guide at: https://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/overview
